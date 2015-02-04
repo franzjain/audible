@@ -1,7 +1,7 @@
-Introduction=====================================================================================
+Introduction=================================================
   This project contains the solution to Audible code test
 
-Requirement======================================================================================
+Requirement==================================================
 
   Given a “n x m” array (n & m could be different or same numbers), print the contents of the array in a spiral order (i.e. print the outermost elements followed by the next inner layer followed by the next inner layer and so on until all elements are printed) in a clockwise manner. Note that all elements of the array should be printed only once.
 The input could be either read from a text file or from a command prompt and the output should be printed on a console.
@@ -24,7 +24,7 @@ Array contents:
 9 10 11 12
 Output: 1 2 3 4 8 12 11 10 9 5 6 7
 
-How to run the program===========================================================================
+How to run the program=======================================
 
   1. With file input
     Save input in text file with name specified.
